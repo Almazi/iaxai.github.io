@@ -1,0 +1,18 @@
+# Site settings
+title: iaxai - innovative automation experience by artificial intelligence
+description: Ahmad A. Almazi - Portfolio
+
+# User settings
+username: iaxai
+user_description: innovative automation experience by artificial intelligence.
+user_title: innovative automation experience by artificial intelligence
+email: mail@iax.ai
+twitter_username: iax_ai
+github_username:  almazi
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
